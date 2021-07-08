@@ -1,13 +1,13 @@
 # A Simple Application for Data Analysis
 My very first time using Scrapy and Dash.
 
-### Overview
+## Overview
 Customer reviews are collected from a website using Scrapy. The data is then visualised and displayed on a simple web application built with Dash framework. Jupyter Lab is used.
 
-#### Scrapy
+### Scrapy
 A Python library for web scraping
 
-#### Dash
+### Dash
 A Python framework built on top of Flask, Plotly.js, React and React.js
 
 <br />
@@ -30,10 +30,10 @@ How to quit
 % deactivate
 ```
 
-### Web Scraping Part
+## Web Scraping Part
 There is a sample spider that performs scraping on the chosen website for a particular brand. This .py file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data will obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
 
-### Data Analysis Part
+## Data Analysis Part
 
 
-### Application Part
+## Application Part
