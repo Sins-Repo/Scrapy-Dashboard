@@ -31,7 +31,7 @@ How to quit
 ```
 
 ## Web Scraping Part
-There is a sample spider that performs scraping on the chosen website for a particular brand. This .py file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data will obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
+There is a sample spider that performs scraping on the chosen website for a particular brand. This .py file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
 
 ## Data Analysis Part
 
