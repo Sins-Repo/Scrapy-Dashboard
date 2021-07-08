@@ -11,7 +11,7 @@ A Python library for web scraping
 A Python framework built on top of Flask, Plotly.js, React and React.js
 
 <br />
-How to run the project in your local machine
+How to run the project on your local machine
 
 ```
 % cd *project directory*
