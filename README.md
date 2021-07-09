@@ -37,3 +37,7 @@ There is a sample spider that performs scraping on the chosen website for a part
 
 
 ## Application Part
+
+
+## Output
+![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png?raw=true)
