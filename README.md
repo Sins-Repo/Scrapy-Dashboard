@@ -42,6 +42,7 @@ There is a sample spider that performs scraping on the chosen website for a part
 ## Output
 Screenshot of the application
 ![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png?raw=true)
+
 <br />
 With some interactivity (PS: The table is scrollable)
 ![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png?raw=true)
