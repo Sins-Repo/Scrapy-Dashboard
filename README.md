@@ -40,9 +40,9 @@ There is a sample spider that performs scraping on the chosen website for a part
 
 
 ## Output
-Screenshot of the application <br/>
-<img src="https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png" alt="Sample Output I" width="500"/>
+Screenshot of the application
+![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png?raw=true)
 
 
-With some interactivity (PS: The table is scrollable) <br/>
-<img src="https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png" alt="Sample Output II" width="500"/>
+With some interactivity (PS: The table is scrollable)
+![Sample Output II](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png?raw=true)
