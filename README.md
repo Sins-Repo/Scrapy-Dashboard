@@ -37,6 +37,7 @@ There is a sample spider that performs scraping on the chosen website for a part
 
 
 ## Application Part
+The interactive plot is built with Plotly.
 
 
 ## Output
@@ -46,3 +47,6 @@ Screenshot of the application
 
 With some interactivity (PS: The table is scrollable)
 ![Sample Output II](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png?raw=true)
+
+## Discussion
+* External styles instead of inline styles
