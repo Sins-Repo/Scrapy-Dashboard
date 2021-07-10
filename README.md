@@ -19,7 +19,7 @@ How to run the project on your local machine
 % jupyter lab
 ```
 
-Run all the cells in `dashboard-app.ipynb`.
+Run all the cells in `dashboard-app.ipynb`. Access the application on 127.0.0.1:8050 
 
 <br />
 How to quit
@@ -41,8 +41,8 @@ There is a sample spider that performs scraping on the chosen website for a part
 
 ## Output
 Screenshot of the application
-![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png?raw=true)
+<img src="https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png" alt="Sample Output I" width="150"/>
 
 
 With some interactivity (PS: The table is scrollable)
-![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png?raw=true)
+<img src="https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png" alt="Sample Output II" width="150"/>
