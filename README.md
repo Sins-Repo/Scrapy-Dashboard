@@ -6,19 +6,20 @@ In the era of big data, loads of manual work need to be done in order to collect
 <br/>
 <br/>
 
-# A Simple Application for Data Analysis
+# A Simple Application
 My very first time using Scrapy and Dash.
 
-## Overview
+### Overview
 Customer reviews are collected from a website using Scrapy. The data is then visualised and displayed on a simple web application built with Dash framework. Jupyter Lab is used.
 
 ### Scrapy
 A Python library for web scraping
 
 ### Dash
-A Python framework built on top of Flask, Plotly.js, React and React.js
+A Python framework built on top of Flask, Plotly.js, React and React.js 
 
 <br />
+
 How to run the project on your local machine
 
 ```
@@ -38,23 +39,27 @@ How to quit
 % deactivate
 ```
 
-## Web Scraping Part
+# Web Scraping Part
 There is a sample spider that performs scraping on the chosen website for a particular brand. This .py file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
 
-## Data Analysis Part
 
 
-## Application Part
-The interactive plot is built with Plotly.
+# Application Part
+The interactive plot is built with Plotly. <br/>
+3 pillars of Dash App
+* Component
+* Plotly
+* Callback
 
 
-## Output
-Screenshot of the application
-![Sample Output I](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img.png?raw=true)
+# Output
+Screenshot of the application <br/>
 
+<img src="img/sample_img.png" width=800> 
 
-With some interactivity (PS: The table is scrollable)
-![Sample Output II](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/img/sample_img_ii.png?raw=true)
+With some interactivity (PS: The table is scrollable) <br/>
+
+<img src="img/sample_img_ii.png" width=800> 
 
 ## Discussion
 * External styles instead of inline styles
