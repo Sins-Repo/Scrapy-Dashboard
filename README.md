@@ -66,7 +66,7 @@ There is a sample spider that performs scraping on the chosen website for a part
 
 Scrapy shell <br/>
 
-<img src="img/shell.PNG" width=800>
+<img src="img/shell.PNG" width=600>
 
 <br/>
 <br/>
