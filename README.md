@@ -88,5 +88,8 @@ With some interactivity (PS: The table is scrollable) <br/>
 
 <img src="img/sample_img_ii.png" width=800> 
 
+<br/>
+<br/>
+
 ## Discussion
 * External styles instead of inline styles
