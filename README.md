@@ -40,7 +40,15 @@ How to quit
 ```
 
 # Web Scraping Part
-There is a sample spider that performs scraping on the chosen website for a particular brand. This .py file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
+Beautifulsoup could be considered as well for this simple static web page (but I personally want to practise using Scrapy) 😀
+
+<br/>
+
+First and foremost, respect the owner/author of the page, check whether this site can be scrapped. Simply type domain name followed by robots.txt in the browser. <br/>
+
+<img src="img/robots.jpeg" > 
+
+There is a sample spider that performs scraping on the chosen website for a particular brand. This file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
 
 
 
