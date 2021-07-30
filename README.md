@@ -1,6 +1,8 @@
 # Introduction
 In the era of big data, loads of manual work need to be done in order to collect the necessary data on a large scale, at the speed of light and at no cost. Data analysis or prediction could be performed for business plans and more. In this mini project, *pcmag.com* will be the chosen website to compare the reviews of different pc brands.
 
+<img src="img/pcmag.PNG" > 
+
 <br/>
 <br/>
 
