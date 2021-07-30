@@ -39,6 +39,9 @@ How to quit
 % deactivate
 ```
 
+<br/>
+<br/>
+
 # Web Scraping Part
 Beautifulsoup could be considered as well for this simple static web page (but I personally want to practise using Scrapy) 😀
 
@@ -46,7 +49,13 @@ Beautifulsoup could be considered as well for this simple static web page (but I
 
 First and foremost, respect the owner/author of the page, check whether this site can be scrapped. Simply type domain name followed by robots.txt in the browser. <br/>
 
-<img src="img/robots.jpeg" > 
+<img src="img/robots.jpeg" width=400>
+
+In this case, directories with ‘/search/’, ‘/archive/’ and ‘/otc/’ are not allowed to be scrapped. <br/>
+
+<img src="img/robotstext.jpeg" width=400>
+
+<br/>
 
 There is a sample spider that performs scraping on the chosen website for a particular brand. This file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
 
