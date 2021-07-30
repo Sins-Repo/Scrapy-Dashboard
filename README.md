@@ -1,10 +1,10 @@
 # Table of Content
-[Introduction](#introduction)
-[How to run](#a-simple-application)
-[Web Scraping Part](web-scraping-part)
-[Application Part](#application-part)
-[Output](#output)
-[Discussion](#discussion)
+* [Introduction](#introduction) 
+* [How to run](#a-simple-application) 
+* [Web Scraping Part](web-scraping-part)
+* [Application Part](#application-part)
+* [Output](#output)
+* [Discussion](#discussion)
 
 <br/>
 <br/>
