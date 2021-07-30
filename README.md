@@ -53,13 +53,23 @@ First and foremost, respect the owner/author of the page, check whether this sit
 
 In this case, directories with ‘/search/’, ‘/archive/’ and ‘/otc/’ are not allowed to be scrapped. <br/>
 
-<img src="img/robotstext.jpeg" width=400>
+<img src="img/robotstxt.jpeg" width=400>
+
+<br/>
+<br/>
+
+There is a sample spider that performs scraping on the chosen website for a particular brand. This file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. <br/>
+
+<img src="img/inspect.JPG" width=800>
 
 <br/>
 
-There is a sample spider that performs scraping on the chosen website for a particular brand. This file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. 
+Scrapy shell <br/>
 
+<img src="img/shell.PNG" width=400>
 
+<br/>
+<br/>
 
 # Application Part
 The interactive plot is built with Plotly. <br/>
