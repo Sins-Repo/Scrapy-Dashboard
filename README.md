@@ -39,7 +39,7 @@ How to run the project on your local machine
 % jupyter lab
 ```
 
-Run all the cells in `dashboard-app.ipynb`. Access the application on 127.0.0.1:8050 
+Run all the cells in [`dashboard-app.ipynb`](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/dashboard-app.ipynb). Access the application on 127.0.0.1:8050 
 
 <br />
 How to quit
@@ -69,7 +69,7 @@ In this case, directories with ‘/search/’, ‘/archive/’ and ‘/otc/’ a
 <br/>
 <br/>
 
-There is a sample spider that performs scraping on the chosen website for a particular brand. This file could be found in `./pcreviews/spiders/applespider.py`. To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. <br/>
+There is a sample spider that performs scraping on the chosen website for a particular brand. This file could be found in [`./pcreviews/spiders/applespider.py`](https://github.com/Sins-Repo/Scrapy-Dashboard/blob/master/pcreviews/spiders/applespider.py). To perform web scraping, knowledge of XML or CSS selector will be needed. In this project, all the data obtained by the spider will be saved as .csv files which could be found in `./pcreviews/`. <br/>
 
 <img src="img/inspect.JPG" width=800>
 
