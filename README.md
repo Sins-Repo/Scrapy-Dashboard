@@ -21,7 +21,7 @@ In the era of big data, loads of manual work need to be done in order to collect
 My very first time using Scrapy and Dash.
 
 ### Overview
-Customer reviews are collected from a website using Scrapy. The data is then visualised and displayed on a simple web application built with Dash framework. Jupyter Lab is used.
+Customer reviews are collected from a website using Scrapy. The data is then visualised and displayed on a simple web application built with Dash framework. Jupyter Lab is used. (For simplicity purpose, the analysis will be done elsewhere)
 
 ### Scrapy
 A Python library for web scraping
